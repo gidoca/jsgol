@@ -1,0 +1,12 @@
+td.live {
+  background-color: black;
+}
+
+td.dead {
+  background-color: white;
+}
+
+.golgrid td {
+  width: 5px;
+  height: 5px;
+}
